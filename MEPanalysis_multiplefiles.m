@@ -1,5 +1,6 @@
 %% Sonia Turrini
 %turrinisonia@gmail.com
+%please cite this code as: Turrini, S (2023) MEPautomatedanalysis (Version 1.1)
 
 % this script allows you to automatically process multiple EMG traces and extract
 % the MEP size (peak to peak and area under the curve), the MEP onset
